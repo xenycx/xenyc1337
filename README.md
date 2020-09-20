@@ -11,9 +11,9 @@
 <details>
 			<summary>Statistics.</summary>
 			<p align=center>
-				<a href="https://github.com/xenyc1337o">
-					<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenyc1337&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Oxy's Statistics." />
-					<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKyoto&show_icons=true&show_icons=true&title_color=fff&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Oxy's Statistics." />
+				<a href="https://github.com/xenyc1337">
+					<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenyc1337&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="xenyc's Statistics." />
+					<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenyc1337&show_icons=true&show_icons=true&title_color=fff&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="xenyc's Statistics." />
 				</a>
 			</p>
 			
