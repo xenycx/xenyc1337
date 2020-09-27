@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently not working
 - 🌱 I’m currently learning **Python**!
-- 📫 Discord: **xenyc#3753**
+- 📫 Discord: **xenyc#7760**
 
 
 <details>
