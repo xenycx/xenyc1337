@@ -4,8 +4,8 @@
 <h1 align=center>Hi! I'm xenyc 👋</h1>
 
 - 🔭 I’m currently not working
-- 🌱 I’m currently learning **Python**!
-- 📫 Discord: **xenyc#7760**
+- 🌱 I’m currently learning **Stuff**!
+- 📫 Discord: **xenyc#9984**
 
 
 <details>
@@ -25,6 +25,5 @@
 				<br>
 						<a href="https://twitter.com/x3nyc1337">@x3nyc1337</a>
 						<br>
-							<a href="https://discord.gg/HUV7HWh">Xenyc's Basement</a>
 						</p>
 					</details>
