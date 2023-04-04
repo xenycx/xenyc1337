@@ -4,8 +4,8 @@
 <h1 align=center>Hi! I'm xenyc 👋</h1>
 
 - 🔭 I’m currently not working
-- 🌱 I’m currently learning **Stuff**!
-- 📫 Discord: **xenyc#9984**
+- 🌱 I’m currently learning **C++ basics**!
+- 📫 Discord: **xenyc#4580**
 
 
 <details>
