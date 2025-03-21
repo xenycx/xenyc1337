@@ -12,8 +12,8 @@
 			<summary>Statistics.</summary>
 			<p align=center>
 				<a href="https://github.com/xenyc1337">
-					<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenyc1337&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="xenyc's Statistics." />
-					<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenyc1337&show_icons=true&show_icons=true&title_color=fff&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="xenyc's Statistics." />
+					<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenycx&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="xenyc's Statistics." />
+					<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenycx&show_icons=true&show_icons=true&title_color=fff&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="xenyc's Statistics." />
 				</a>
 			</p>
 			
@@ -21,9 +21,9 @@
 		<details>
 			<summary>Contact.</summary>
 			<p align=center>
-				<a href="https://github.com/xenyc1337">Github.</a>
+				<a href="https://github.com/xenycx">Github.</a>
 				<br>
-						<a href="https://twitter.com/x3nyc1337">@x3nyc1337</a>
+						<a href="https://twitter.com/xenycx">@xenycx</a>
 						<br>
 						</p>
 					</details>
